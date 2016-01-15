@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QQ红包</string>
+    <string name="service_name">设置抢红包辅助服务</string>
+    <string name="action_settings">Settings</string>
+    <string name="use_details">\t\t\t\t1、打开『QQ红包』应用，开启插件。\n\t\t\t\t2、打开『QQ』应用，进入有红包的群。\n\t\t\t\t3、坐等红包进账。</string>
+</resources>
